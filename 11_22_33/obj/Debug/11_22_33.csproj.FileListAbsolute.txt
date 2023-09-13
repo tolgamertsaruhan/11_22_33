@@ -1,0 +1,21 @@
+C:\Users\tolga\Desktop\11_22_33\11_22_33\bin\Debug\11_22_33.exe.config
+C:\Users\tolga\Desktop\11_22_33\11_22_33\bin\Debug\11_22_33.exe
+C:\Users\tolga\Desktop\11_22_33\11_22_33\bin\Debug\11_22_33.pdb
+C:\Users\tolga\Desktop\11_22_33\11_22_33\obj\Debug\11_22_33.csproj.AssemblyReference.cache
+C:\Users\tolga\Desktop\11_22_33\11_22_33\obj\Debug\11_22_33.csproj.CoreCompileInputs.cache
+C:\Users\tolga\Desktop\11_22_33\11_22_33\obj\Debug\11_22_33.exe
+C:\Users\tolga\Desktop\11_22_33\11_22_33\obj\Debug\11_22_33.pdb
+C:\Users\tolga\Desktop\DEÜ\Projects\11_22_33\11_22_33\bin\Debug\11_22_33.exe.config
+C:\Users\tolga\Desktop\DEÜ\Projects\11_22_33\11_22_33\bin\Debug\11_22_33.exe
+C:\Users\tolga\Desktop\DEÜ\Projects\11_22_33\11_22_33\bin\Debug\11_22_33.pdb
+C:\Users\tolga\Desktop\DEÜ\Projects\11_22_33\11_22_33\obj\Debug\11_22_33.csproj.AssemblyReference.cache
+C:\Users\tolga\Desktop\DEÜ\Projects\11_22_33\11_22_33\obj\Debug\11_22_33.csproj.CoreCompileInputs.cache
+C:\Users\tolga\Desktop\DEÜ\Projects\11_22_33\11_22_33\obj\Debug\11_22_33.exe
+C:\Users\tolga\Desktop\DEÜ\Projects\11_22_33\11_22_33\obj\Debug\11_22_33.pdb
+C:\Users\tolga\Desktop\TMS\github\C#\11_22_33 (Geliştirilebilir bitişi falan)\11_22_33\bin\Debug\11_22_33.exe.config
+C:\Users\tolga\Desktop\TMS\github\C#\11_22_33 (Geliştirilebilir bitişi falan)\11_22_33\bin\Debug\11_22_33.exe
+C:\Users\tolga\Desktop\TMS\github\C#\11_22_33 (Geliştirilebilir bitişi falan)\11_22_33\bin\Debug\11_22_33.pdb
+C:\Users\tolga\Desktop\TMS\github\C#\11_22_33 (Geliştirilebilir bitişi falan)\11_22_33\obj\Debug\11_22_33.csproj.AssemblyReference.cache
+C:\Users\tolga\Desktop\TMS\github\C#\11_22_33 (Geliştirilebilir bitişi falan)\11_22_33\obj\Debug\11_22_33.csproj.CoreCompileInputs.cache
+C:\Users\tolga\Desktop\TMS\github\C#\11_22_33 (Geliştirilebilir bitişi falan)\11_22_33\obj\Debug\11_22_33.exe
+C:\Users\tolga\Desktop\TMS\github\C#\11_22_33 (Geliştirilebilir bitişi falan)\11_22_33\obj\Debug\11_22_33.pdb
