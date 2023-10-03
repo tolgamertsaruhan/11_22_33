@@ -10,7 +10,7 @@ namespace project_2_testing_2
     {
         static void Main(string[] args)
         {
-            Console.BackgroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.White;
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.DarkMagenta;
             int[] line1 = new int[30];
